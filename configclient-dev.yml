@@ -1,0 +1,8 @@
+servers:
+  jpushCenter:
+    host: http://127.0.0.1:8090/jpush/send/
+    title: GitHub9-云端钱包测试版
+    destination: GitHub9-ydWalletTest
+
+apply:
+  message: GitHub9-local message
