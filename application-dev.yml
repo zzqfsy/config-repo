@@ -1,8 +1,8 @@
 servers:
   jpushCenter:
     host: http://127.0.0.1:8073/jpush/send/
-    title: GitHub-云端钱包测试版
-    destination: GitHub-ydWalletTest
+    title: GitHub2-云端钱包测试版
+    destination: GitHub2-ydWalletTest
 
 apply:
-  message: GitHub-local message
+  message: GitHub2-local message
