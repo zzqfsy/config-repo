@@ -1,7 +1,7 @@
 servers:
   jpushCenter:
     host: http://127.0.0.1:8050/jpush/send/
-    title: GitHub50-云端钱包测试版
+    title: GitHub50-云端钱包测试版-Edited by Jeffrey
     destination: GitHub50-ydWalletTest
 
 apply:
